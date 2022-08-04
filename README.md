@@ -25,17 +25,17 @@ Users should be able to:
 
  <h2>Mobile Version</h2>
 
-![](https://i.postimg.cc/rpDL9Sj1/mobile.png);
-![](https://i.postimg.cc/qMqQqjvx/mobile-1.png);
-![](https://i.postimg.cc/SKhW6rk5/mobile-2.png);
-![](https://i.postimg.cc/3NVGdjtt/mobile-3.png);
+![](https://i.postimg.cc/rpDL9Sj1/mobile.png)
+![](https://i.postimg.cc/qMqQqjvx/mobile-1.png)
+![](https://i.postimg.cc/SKhW6rk5/mobile-2.png)
+![](https://i.postimg.cc/3NVGdjtt/mobile-3.png)
 
 <h2>Desktop Version</h2>
 
-![](https://i.postimg.cc/YqSLQCZ1/mobile-4.png);
-![](https://i.postimg.cc/nhDz1jkQ/mobile-5.png);
-![](https://i.postimg.cc/TPSvNC3d/mobile-6.png);
-![](https://i.postimg.cc/hGV1NGSX/mobile-8.png);
+![](https://i.postimg.cc/YqSLQCZ1/mobile-4.png)
+![](https://i.postimg.cc/nhDz1jkQ/mobile-5.png)
+![](https://i.postimg.cc/cJMxJ6fq/mobile-9.png)
+![](https://i.postimg.cc/hGV1NGSX/mobile-8.png)
 
 ### Links
 
